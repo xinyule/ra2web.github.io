@@ -1,4 +1,4 @@
-const config = {"version":"0.87.1-rfdc007c-dc33de918","precache":["/","/index.html","/manifest.webmanifest","/js/7zz.wasm?v=0.87.1-rfdc007c-dc33de918","/js/app.css?v=0.87.1-rfdc007c-dc33de918","/js/app.js?v=0.87.1-rfdc007c-dc33de918","/js/bot1.js?v=0.87.1-rfdc007c-dc33de918","/js/bot2.js?v=0.87.1-rfdc007c-dc33de918","/js/bot3.js?v=0.87.1-rfdc007c-dc33de918","/js/ffmpeg-core.js?v=0.87.1-rfdc007c-dc33de918","/js/ffmpeg-core.wasm?v=0.87.1-rfdc007c-dc33de918","/js/ffmpeg.js?v=0.87.1-rfdc007c-dc33de918","/js/file-explorer.css?v=0.87.1-rfdc007c-dc33de918","/js/file-explorer.js?v=0.87.1-rfdc007c-dc33de918","/js/fileexplorer_actions.woff?v=0.87.1-rfdc007c-dc33de918","/js/fileexplorer_sprites.png?v=0.87.1-rfdc007c-dc33de918","/js/race-core.js?v=0.87.1-rfdc007c-dc33de918","/js/race-ui.js?v=0.87.1-rfdc007c-dc33de918","/js/vendor.js?v=2ddb39d8eec1dd688a616b852dc50a9bf86bbe6ab7a8f5a6b16bf666054aa310","/js/watchdog.js?v=0.87.1-rfdc007c-dc33de918","/js/worker.js?v=0.87.1-rfdc007c-dc33de918","/res/werhdexp.mix?v=0.87.1-rfdc007c-dc33de918","/config.json?v=0.87.1-rfdc007c-dc33de918","/res/overlay/art.ini?v=0.87.1","/res/overlay/modcd.ini?v=0.87.1","/res/overlay/mpbattle.ini?v=0.87.1","/res/overlay/mpcoop.ini?v=0.87.1","/res/overlay/mpduel.ini?v=0.87.1","/res/overlay/mpfreeforallmd.ini?v=0.87.1","/res/overlay/mpmeat.ini?v=0.87.1","/res/overlay/mpmodes.ini?v=0.87.1","/res/overlay/mpmw.ini?v=0.87.1","/res/overlay/mpnaval.ini?v=0.87.1","/res/overlay/mprace.ini?v=0.87.1","/res/overlay/mpspecial.ini?v=0.87.1","/res/overlay/mpteammd.ini?v=0.87.1","/res/overlay/mpunholy.ini?v=0.87.1","/res/overlay/nodogengikills.ini?v=0.87.1","/res/overlay/ra2.csf?v=0.87.1","/res/overlay/rules.ini?v=0.87.1","/res/overlay/soundcd.ini?v=0.87.1","/res/overlay/ui.ini?v=0.87.1"],"assetIntegrity":{"/js/7zz.wasm":"sha384-H9Y2QJq2/oAPJMt88VZUjDwml6ze+vc8r8KFdob2xPeSHHGstEyKtYVMTqyaWFPV","/js/app.css":"sha384-4vooXD+mojGO74lbKmTlKZjx9JpV0tGfppNrpHhYjDsy3X9fizWepP6pDTZUb071","/js/app.js":"sha384-ra1M+iyh52mO/Ut3kgH41HyE3TdRtzq6vkTOxjfMLgVRM/nMfpTI/kFk0jN8SKqJ","/js/bot1.js":"sha384-LFPN4Ks7Y7OuXMQPC7A7oTKj6mB7WO/PvN/SvodS7O6PJ2mFegcauVH47xDQn3/7","/js/bot2.js":"sha384-d6UaGRRrZYKdn0xCk/jDuyYavcC+szKJeM+HOOcwXlc9GNMYrnp46HWYEjmLDc4M","/js/bot3.js":"sha384-zzcoTLIqNY6zISUrHpmbDIUsoqeV6FQpqC9FXPeIgopga7viVEPnIa1O9zNPA2Na","/js/ffmpeg-core.js":"sha384-jpwSjDZaVK2/1FXuiCp4hmwYlTk0qi4qnFuUVCA4r2Zaynjz1EiwvzNUXTEWfe/3","/js/ffmpeg-core.wasm":"sha384-TZtxG9NUmwRWTafU1m/iInunVkc0TMlqpUVltg7BlwxBzoOWMNQXZwtPE8hoc3Dw","/js/ffmpeg.js":"sha384-BT+/j36eTuuFTzzUC3Bgow6VF79T0LVn4ObUvk+DV+NYZ2qDbQlutt1V1nWxGfGr","/js/file-explorer.css":"sha384-zMNt3yiO7gDFOdMT7DWLsxGFccjNBQd7qNp/ZBLOcCLGmN+XaV2dekurGIHpvQWe","/js/file-explorer.js":"sha384-7/8ptP5ZcvmUzUba/Ne6LituDjdx+DV6vdaDXIChG+6L9Dk7f6vtnwaIzyjvhFUF","/js/fileexplorer_actions.woff":"sha384-+ZVX0O3ik73hIinVSNl9d7VI02WYUstFZy+/3UQxOXdgsv1tI7BKCGgOydAwuDV5","/js/fileexplorer_sprites.png":"sha384-Crx/49GGj7DHxIyg5qfV+OMmWAKu82PnBx9lBs/zpDRPZnoBdli7SZIt6jRjExHt","/js/race-core.js":"sha384-hUOfJHhM8F6QY1SbbKDR1A8VrM/MKtjSAnGSpRBaKc1H0C8TbkF4hWC8S4sryc2v","/js/race-ui.js":"sha384-LzxKhBU86JBsOJ1whw2KuLX34rPqKTHW4xS7RwDJZnf3OLGqo8Z8TG/wbgQsq/pG","/js/vendor.js":"sha384-qB9KmnwFDyjylrr/zQ0JrPccfYQQ0BGQwvXLNciFpg1gq6UzguXx23hTykGQNNwQ","/js/watchdog.js":"sha384-Zq6I+0YTBesyloLzXVCCtscYBl1IGrrGBhOX6CrA5bZYyf62bSdhV2I+y5n1aAob","/js/worker.js":"sha384-RBcvxKkasqSvwHcxQ4zUi78rsqGeKHKjUnP+9oih0VMEaG6w3bV3td5Mx3agx2p2","/":"sha384-wydEVDJumyq6Ij8GgccEMeo6eokQkguQTf332C/Qyo8TDLUGrVZ7KJo5Gaz8Jj+v","/index.html":"sha384-wydEVDJumyq6Ij8GgccEMeo6eokQkguQTf332C/Qyo8TDLUGrVZ7KJo5Gaz8Jj+v"},"runtimeVersions":{"/js/vendor.js":"2ddb39d8eec1dd688a616b852dc50a9bf86bbe6ab7a8f5a6b16bf666054aa310"},"updateSensitivePaths":["/config.json","/servers.json","/mods.json","/official-map-redirect.json","/mix-checksums.json","/old/versions.json","/version.json","/res/locale/en-US.json","/res/locale/zh-CN.json","/res/locale/zh-TW.json"],"gameResourcePrefixes":["/v2/","/map/","/mod/","/music/"]};
+const config = {"version":"0.87.2-r891c205","precache":["/","/index.html","/manifest.webmanifest","/js/7zz.wasm?v=0.87.2-r891c205","/js/app.css?v=0.87.2-r891c205","/js/app.js?v=0.87.2-r891c205","/js/bot1.js?v=0.87.2-r891c205","/js/bot2.js?v=0.87.2-r891c205","/js/bot3.js?v=0.87.2-r891c205","/js/ffmpeg-core.js?v=0.87.2-r891c205","/js/ffmpeg-core.wasm?v=0.87.2-r891c205","/js/ffmpeg.js?v=0.87.2-r891c205","/js/file-explorer.css?v=0.87.2-r891c205","/js/file-explorer.js?v=0.87.2-r891c205","/js/fileexplorer_actions.woff?v=0.87.2-r891c205","/js/fileexplorer_sprites.png?v=0.87.2-r891c205","/js/race-core.js?v=0.87.2-r891c205","/js/race-ui.js?v=0.87.2-r891c205","/js/vendor.js?v=d04a5e6829cb25a3b550d8eba70f04ca3595561b79215637b48825a9e46f1c69","/js/watchdog.js?v=0.87.2-r891c205","/js/worker.js?v=0.87.2-r891c205","/res/werhdexp.mix?v=0.87.2-r891c205","/config.json?v=0.87.2-r891c205","/res/overlay/art.ini?v=0.87.2","/res/overlay/modcd.ini?v=0.87.2","/res/overlay/mpbattle.ini?v=0.87.2","/res/overlay/mpcoop.ini?v=0.87.2","/res/overlay/mpduel.ini?v=0.87.2","/res/overlay/mpfreeforallmd.ini?v=0.87.2","/res/overlay/mpmeat.ini?v=0.87.2","/res/overlay/mpmodes.ini?v=0.87.2","/res/overlay/mpmw.ini?v=0.87.2","/res/overlay/mpnaval.ini?v=0.87.2","/res/overlay/mprace.ini?v=0.87.2","/res/overlay/mpspecial.ini?v=0.87.2","/res/overlay/mpteammd.ini?v=0.87.2","/res/overlay/mpunholy.ini?v=0.87.2","/res/overlay/nodogengikills.ini?v=0.87.2","/res/overlay/ra2.csf?v=0.87.2","/res/overlay/rules.ini?v=0.87.2","/res/overlay/soundcd.ini?v=0.87.2","/res/overlay/ui.ini?v=0.87.2"],"assetIntegrity":{"/js/7zz.wasm":"sha384-H9Y2QJq2/oAPJMt88VZUjDwml6ze+vc8r8KFdob2xPeSHHGstEyKtYVMTqyaWFPV","/js/app.css":"sha384-sySuK8z3Su51RuorsADXnjAJUgv56Xyx16mBj8BpLJ2yJIX5G9MoP887ubEWXlvj","/js/app.js":"sha384-RXzlYO13VyA3R6MgEjo4//vCWrFcVLO45QHQucijuGO2+L0dSK9arC+7HB75I5yD","/js/bot1.js":"sha384-YKL2o7dKDa8hYaTS7pQFPZpRQm0mQv2RUFsKYbKmELIyOJmCheQ0KXUkLZBDr9R5","/js/bot2.js":"sha384-Y65RRO9W3FrVdRg5UK3/JzOerOHd+ouwpTsBivY5kzRRWvszwOnFOtsJamWXPIPV","/js/bot3.js":"sha384-wdZBBTYvJBDjq75UFYzhPZ0zrlrAdUOaqJRsroKi6BMuNvIBM2A9sUw9vqgrQMVg","/js/ffmpeg-core.js":"sha384-jpwSjDZaVK2/1FXuiCp4hmwYlTk0qi4qnFuUVCA4r2Zaynjz1EiwvzNUXTEWfe/3","/js/ffmpeg-core.wasm":"sha384-TZtxG9NUmwRWTafU1m/iInunVkc0TMlqpUVltg7BlwxBzoOWMNQXZwtPE8hoc3Dw","/js/ffmpeg.js":"sha384-Stn+IgVTAGOiDJYTbqSWuPDyOWZlh1zyr7soclVomEog7Hj/ogXdpkiXaCvvGsR8","/js/file-explorer.css":"sha384-D6+t+j4+9DjLtb7QlrRDuDAt0X9oVxDxwzGrT0P8aUIsFQgTkkOatVKKRbihnX96","/js/file-explorer.js":"sha384-YTZOXfGB8aHJWzMFKGDwpLQ17BuePXIGwaAXhKkDqnd213KHDXH+aeQ0r8ms8OFK","/js/fileexplorer_actions.woff":"sha384-+ZVX0O3ik73hIinVSNl9d7VI02WYUstFZy+/3UQxOXdgsv1tI7BKCGgOydAwuDV5","/js/fileexplorer_sprites.png":"sha384-Crx/49GGj7DHxIyg5qfV+OMmWAKu82PnBx9lBs/zpDRPZnoBdli7SZIt6jRjExHt","/js/race-core.js":"sha384-zHG5l2TrcFgdcDJ2g/pJSOEvG9iDdhQRFhYRQjtrPFrJFfANaykamPjZv8y/3BKJ","/js/race-ui.js":"sha384-TZntEtHHWw1bKCDv3aR6YIoVuiO+obQunLxil/7SCBvkf1sWZPMid+xAQk1Lbi+7","/js/vendor.js":"sha384-btAdUhYJkWHrMTXLzrTwglwcKtQigMMnkSvZQ7HaEcQ0VlptYVTWZIY1hfaWg8BI","/js/watchdog.js":"sha384-8ViGnJyoHEHkqzCmR7Ax7JTYadtvdtWyRrL5dRqad42c0STmZSxL5LjtFcZoC2nA","/js/worker.js":"sha384-m9BNLYV/hLU00SZO2s7b7llujBCAcwOnmaT4ba4RgP8reHhKDxeYmBlljaAo7KXd","/":"sha384-beSuvwPymSANzmKxssWZ9J5aT6X8WaXpwRxqPDMYo75xrpfAbsforY+K7FIgCn4a","/index.html":"sha384-beSuvwPymSANzmKxssWZ9J5aT6X8WaXpwRxqPDMYo75xrpfAbsforY+K7FIgCn4a"},"runtimeVersions":{"/js/vendor.js":"d04a5e6829cb25a3b550d8eba70f04ca3595561b79215637b48825a9e46f1c69"},"updateSensitivePaths":["/config.json","/servers.json","/mods.json","/official-map-redirect.json","/mix-checksums.json","/old/versions.json","/version.json","/res/locale/en-US.json","/res/locale/zh-CN.json","/res/locale/zh-TW.json"],"gameResourcePrefixes":["/v2/","/map/","/mod/","/music/"]};
 const RA2WEB_SW_VERSION = config.version;
 const RA2WEB_APP_CACHE = 'ra2web-app-' + RA2WEB_SW_VERSION;
 const RA2WEB_GAMERES_CACHE = 'ra2web-gameres-' + RA2WEB_SW_VERSION;
@@ -158,9 +158,35 @@ async function versionedRuntime(event, url) {
     }
   }
   if (!integrity) return new Response('Runtime file is not part of the requested build', { status: 404 });
-  const response = await fetch(new Request(event.request, { cache: 'no-cache', integrity }));
+  const response = await fetchVerifiedRuntime(event, integrity, version);
   if (isCacheable(response)) await cache.put(event.request, response.clone());
   return response;
+}
+
+async function fetchVerifiedRuntime(event, integrity, expected) {
+  try {
+    return await fetch(new Request(event.request, { cache: 'no-cache', integrity }));
+  } catch (error) {
+    // An evicted old runtime may now resolve to new bytes at its fixed path.
+    // SRI must still reject it. Only a fresh manifest can classify the failure
+    // as an update rather than an ordinary network/worker error.
+    try {
+      const response = await fetch('/version.json', { cache: 'no-store' });
+      if (response.ok) {
+        const manifest = await response.json();
+        const path = new URL(event.request.url).pathname.slice(1);
+        const actualRuntime = manifest.runtimeVersions?.[path] || manifest.assetVersion;
+        if (typeof actualRuntime === 'string' && actualRuntime !== expected &&
+            typeof manifest.assetVersion === 'string' && manifest.assetVersion && event.clientId) {
+          const client = await self.clients.get(event.clientId);
+          client?.postMessage({ type: 'RA2WEB_RUNTIME_VERSION_MISMATCH', expected, actual: manifest.assetVersion });
+        }
+      }
+    } catch (_) {
+      // Keep the original integrity/network error; offline is not update proof.
+    }
+    throw error;
+  }
 }
 
 async function retainedDependency(request) {
@@ -190,7 +216,7 @@ async function dependencyRuntime(event, url, version) {
     integrity = manifest.files?.[url.pathname.slice(1)]?.integrity;
   }
   if (!integrity) return new Response('Dependency integrity is missing', { status: 404 });
-  const response = await fetch(new Request(event.request, { integrity }));
+  const response = await fetchVerifiedRuntime(event, integrity, version);
   if (isCacheable(response)) await (await caches.open(RA2WEB_APP_CACHE)).put(event.request, response.clone());
   return response;
 }
